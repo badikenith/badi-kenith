@@ -37,16 +37,6 @@ I'm currently building my skills and working toward developing practical project
 
 As I complete projects, I'll showcase them here with descriptions, technologies used, and links to their repositories.
 
-<!-- Add a project using this template when you have one:
-
-### Project Name
-A short description of the problem the project solves.
-
-- **Technologies:** Python, [Other Technologies]
-- **Repository:** [View Project](YOUR_REPOSITORY_URL)
-- **Key Features:** [List the main features]
-
--->
 
 📊 GitHub Statistics
 
