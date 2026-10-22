@@ -42,12 +42,12 @@ As I complete projects, I'll showcase them here with descriptions, technologies 
 
 <p align="center">
 <img
-src="https://github-readme-stats.vercel.app/api?username=badi kenith&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=badikenith&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
 alt="GitHub Statistics"
 height="165"
 />
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=badi kenith&layout=compact&theme=github_dark&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=badikenith&layout=compact&theme=github_dark&hide_border=true"
 alt="Most Used Languages"
 height="165"
 />
@@ -55,7 +55,7 @@ height="165"
 
 <p align="center">
 <img
-src="https://streak-stats.demolab.com?user=badi kenith&theme=github-dark-blue&hide_border=true"
+src="https://streak-stats.demolab.com?user=badikenith&theme=github-dark-blue&hide_border=true"
 alt="GitHub Contribution Streak"
 />
 </p>
