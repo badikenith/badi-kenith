@@ -71,7 +71,7 @@ alt="GitHub Contribution Streak"
 </a>
 </p>
 
-LinkedIn: Connect with me
+LinkedIn: https://www.linkedin.com/in/badi-kenith-297086430/
 Email: badikenith2009@gmail.com
 GitHub: Visit my profile
 🌱 My Developer Journey
